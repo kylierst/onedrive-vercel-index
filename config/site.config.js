@@ -45,6 +45,7 @@ module.exports = {
   "protectedRoutes": [
   "/💻 Computer Files/🎮 Game Files/🧟 PvZ",
    "/🔗 For Sharing/📸 Photos/Test",
+    "/💻 Computer Files/🎮 Game Files/NAN",
 ],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
