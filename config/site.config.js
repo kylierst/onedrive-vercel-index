@@ -43,8 +43,8 @@ module.exports = {
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
   "protectedRoutes": [
-  "/💻 Computer Files/🎮 Game Files/🧟 PvZ",
-    "/💻 Computer Files/🎮 Game Files/NAN",
+  "/💻 Computer Files/🎮 Game Files/🔫 Call Of Duty",
+    "/💻 Computer Files/🎮 Game Files/🛜 Mobile Legends",
     "/🔗 For Sharing/📸 Photos/Test",
 ],
 
