@@ -44,8 +44,8 @@ module.exports = {
   // the directories in which you have .password set. Check the documentation for details.
   "protectedRoutes": [
   "/💻 Computer Files/🎮 Game Files/🧟 PvZ",
-   "/🔗 For Sharing/📸 Photos/Test",
     "/💻 Computer Files/🎮 Game Files/NAN",
+    "/🔗 For Sharing/📸 Photos/Test",
 ],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
